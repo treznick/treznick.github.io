@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/treznick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tomreznick.com
+  * I am treznick (https://keybase.io/treznick) on keybase.
+  * I have a public key ASCJgH_KRQqQ-_OcjguHind7Qp2KUr4AxfZA04SQ_SThHgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010120b5a82fcb26a9f33be698f828ae97c21d37bdbb606bf5037737e258cf9d67850a",
+            "host": "keybase.io",
+            "kid": "012089807fca450a90fbf39c8e0b878a777b429d8a52be00c5f640d38490fd24e11e0a",
+            "uid": "0bbd647e4b628b1e13928085be05ca19",
+            "username": "treznick"
+        },
+        "service": {
+            "hostname": "tomreznick.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1489182626,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1489182584,
+        "hash": "175f258aa8bd4837abfc4092d3e299ec456fdc556552eb78bd9cdf2026245022e3acb84ab8034394e4ddd8121c0ed808be6ca6803d16cf1493fb06fe93c932fc",
+        "seqno": 951700
+    },
+    "prev": "9d84fdf362b95fa69924898aac166b96a114c391705d26bd93a2a6d476f4f14e",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiYB/ykUKkPvznI4Lh4p3e0KdilK+AMX2QNOEkP0k4R4Kp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMjBiNWE4MmZjYjI2YTlmMzNiZTY5OGY4MjhhZTk3YzIxZDM3YmRiYjYwNmJmNTAzNzczN2UyNThjZjlkNjc4NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODk4MDdmY2E0NTBhOTBmYmYzOWM4ZTBiODc4YTc3N2I0MjlkOGE1MmJlMDBjNWY2NDBkMzg0OTBmZDI0ZTExZTBhIiwidWlkIjoiMGJiZDY0N2U0YjYyOGIxZTEzOTI4MDg1YmUwNWNhMTkiLCJ1c2VybmFtZSI6InRyZXpuaWNrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0b21yZXpuaWNrLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0ODkxODI2MjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4OTE4MjU4NCwiaGFzaCI6IjE3NWYyNThhYThiZDQ4MzdhYmZjNDA5MmQzZTI5OWVjNDU2ZmRjNTU2NTUyZWI3OGJkOWNkZjIwMjYyNDUwMjJlM2FjYjg0YWI4MDM0Mzk0ZTRkZGQ4MTIxYzBlZDgwOGJlNmNhNjgwM2QxNmNmMTQ5M2ZiMDZmZTkzYzkzMmZjIiwic2Vxbm8iOjk1MTcwMH0sInByZXYiOiI5ZDg0ZmRmMzYyYjk1ZmE2OTkyNDg5OGFhYzE2NmI5NmExMTRjMzkxNzA1ZDI2YmQ5M2EyYTZkNDc2ZjRmMTRlIiwic2Vxbm8iOjIwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLHErmFtNjKgzUQl032DwkhwqzAH6CkWwGozszPglrtEJuSkjDf3+iRp7FZnfVmKeM3+BzqkwlIuWkxY4zDNRAaoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDuuB+ajvVucFQeSSe7Hqu8qmrZd60fS6DwTLsanzVLmaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/treznick
+
+==================================================================
